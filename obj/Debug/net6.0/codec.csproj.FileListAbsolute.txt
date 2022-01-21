@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\code learners hub\challenge\codec\obj\Debug\net6.0\codec.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\code learners hub\challenge\codec\obj\Debug\net6.0\codec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\code learners hub\challenge\codec\obj\Debug\net6.0\codec.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\code learners hub\challenge\codec\obj\Debug\net6.0\codec.AssemblyInfo.cs
+C:\Users\User\Desktop\code learners hub\challenge\codec\obj\Debug\net6.0\codec.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\code learners hub\challenge\codec\bin\Debug\net6.0\codec.exe
+C:\Users\User\Desktop\code learners hub\challenge\codec\bin\Debug\net6.0\codec.deps.json
+C:\Users\User\Desktop\code learners hub\challenge\codec\bin\Debug\net6.0\codec.runtimeconfig.json
+C:\Users\User\Desktop\code learners hub\challenge\codec\bin\Debug\net6.0\codec.dll
+C:\Users\User\Desktop\code learners hub\challenge\codec\bin\Debug\net6.0\ref\codec.dll
+C:\Users\User\Desktop\code learners hub\challenge\codec\bin\Debug\net6.0\codec.pdb
+C:\Users\User\Desktop\code learners hub\challenge\codec\obj\Debug\net6.0\codec.dll
+C:\Users\User\Desktop\code learners hub\challenge\codec\obj\Debug\net6.0\ref\codec.dll
+C:\Users\User\Desktop\code learners hub\challenge\codec\obj\Debug\net6.0\codec.pdb
+C:\Users\User\Desktop\code learners hub\challenge\codec\obj\Debug\net6.0\codec.genruntimeconfig.cache
